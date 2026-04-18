@@ -3,7 +3,7 @@ layout: home
 
 hero:
   name: Tsumugi
-  text: 行业数字化解决方案门户
+  text: 行业数字化解决方案
   tagline: 聚焦零售流通、教育运营与统一管理后台，帮助团队用更低成本完成业务上线与持续增长。
   actions:
     - theme: brand
@@ -21,7 +21,7 @@ features:
     details: 面向培训机构和教培团队，支持招生、排课、课消、学员管理与经营报表。
     link: /products/edu
   - title: Tsumugi Panel
-    details: 面向 SaaS 与企业内部系统，提供统一权限、配置管理、数据看板与运营后台能力。
+    details: 提供高效统一的服务器管理面板，聚焦企业级服务器运维管理。
     link: /products/panel
 ---
 
