@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 export default defineConfig({
   title: 'Tsumugi',
-  description: 'Tsumugi 产品线门户与行业解决方案',
+  description: '风梨旗下企业级行业解决方案',
   lang: 'zh-CN',
   cleanUrls: true,
   themeConfig: {
@@ -24,7 +24,7 @@ export default defineConfig({
     },
     footer: {
       message: 'Tsumugi 产品线门户 · 面向零售、教育与企业后台的数字化解决方案',
-      copyright: 'Copyright © 2025 Tsumugi',
+      copyright: 'Copyright © 2018-2026 WindyPear Tech',
     },
   },
 })
