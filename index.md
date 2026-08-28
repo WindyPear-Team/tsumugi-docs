@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Tsumugi
   text: 行业数字化解决方案
-  tagline: 聚焦零售流通、教育运营与统一管理后台，帮助团队用更低成本完成业务上线与持续增长。
+  tagline: 覆盖零售流通、教育运营、支付服务、工业生产与企业协作，帮助团队用更低成本完成业务上线与持续增长。
   actions:
     - theme: brand
       text: 查看产品
@@ -23,5 +23,14 @@ features:
   - title: Tsumugi Panel
     details: 提供高效统一的服务器管理面板，聚焦企业级服务器运维管理。
     link: /products/panel
+  - title: Tsumugi Pay
+    details: 面向 SaaS 场景的多用户支付运营系统，统一管理账单、支付通道、退款与开发者接入。
+    link: /products/pay
+  - title: Tsumugi Industry
+    details: 面向工业生产现场的控制与运营平台，覆盖 PLC、生产工单、流程编排、监控看板与审计。
+    link: /products/industry
+  - title: Tsumugi Workspace
+    details: 面向企业团队的协作工作区，整合消息、通讯录、待办、企业应用、文件空间与组织管理。
+    link: /products/workspace
 ---
 
