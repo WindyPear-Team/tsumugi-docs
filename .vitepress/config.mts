@@ -26,7 +26,7 @@ export default defineConfig({
       ],
     },
     footer: {
-      message: 'Tsumugi 产品线门户 · 面向零售、教育、支付、工业与企业协作的数字化解决方案',
+      message: 'Tsumugi 产品线门户 · 面向零售、教育、支付、工业与企业协作的数字化解决方案 · 联系我们：<a href="mailto:contact@flweb.cn">contact@flweb.cn</a>',
       copyright: 'Copyright © 2018-2026 WindyPear Tech',
     },
   },
